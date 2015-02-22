@@ -1,0 +1,6 @@
+c:\users\vlex\documents\visual studio 2013\Projects\csl_listDuplicatingFiles\csl_listDuplicatingFiles\bin\Debug\csl_listDuplicatingFiles.exe.config
+c:\users\vlex\documents\visual studio 2013\Projects\csl_listDuplicatingFiles\csl_listDuplicatingFiles\bin\Debug\csl_listDuplicatingFiles.exe
+c:\users\vlex\documents\visual studio 2013\Projects\csl_listDuplicatingFiles\csl_listDuplicatingFiles\bin\Debug\csl_listDuplicatingFiles.pdb
+c:\users\vlex\documents\visual studio 2013\Projects\csl_listDuplicatingFiles\csl_listDuplicatingFiles\obj\Debug\csl_listDuplicatingFiles.csprojResolveAssemblyReference.cache
+c:\users\vlex\documents\visual studio 2013\Projects\csl_listDuplicatingFiles\csl_listDuplicatingFiles\obj\Debug\csl_listDuplicatingFiles.exe
+c:\users\vlex\documents\visual studio 2013\Projects\csl_listDuplicatingFiles\csl_listDuplicatingFiles\obj\Debug\csl_listDuplicatingFiles.pdb
